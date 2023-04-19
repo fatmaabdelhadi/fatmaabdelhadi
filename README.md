@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fatmaabdelhadi
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning Java and C++
+- 👀 I’m interested in game design
+- 🌱 I’m currently learning full-stack development
 - 💞️ I’m looking to collaborate on smaller projects for practice
 - 📫 You can reach me through my email: fatmaabdelhadi2002@gmail.com
