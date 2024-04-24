@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatmaabdelhadi
 - 👀 I’m a frontend engineer, game design enthusiast and a senior software engineering student
-- 💪 I've worked with a lot of coding languages through the years inlcuding: C++, java, C#, HTML, CSS, Dart, SQL, Python, JavaScript, React.js,
+- 💪 I've worked with a lot of coding languages through the years inlcuding: C++, java, C#, HTML, CSS, Dart, SQL, Python, JavaScript, React.js, Node.js, MongoDB
 CSHTML - MVC, MATLAB, and C
 - 🔧 I've also used quite a few tools with those including: Visual Studio, VS Code, Unity 3D, Android Studio, MySQL Workbench, Flutter, CodeBlocks, Unity 2 and VMware WorkStation
 - 🌱 I’m currently learning front-end React.js and Node.js using Express.js and MongoDB
